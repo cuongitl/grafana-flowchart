@@ -17,7 +17,7 @@ cells:
     link:
       url: "https://app.diagrams.net/?p=svgdata"
   total_queries:
-    dataRef: "total_queries"
+    dataRef: "inbox_depth"
     label:
       separator: "cr"
       units: "none"
