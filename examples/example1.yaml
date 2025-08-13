@@ -16,7 +16,7 @@ cells:
   drawio:
     link:
       url: "https://app.diagrams.net/?p=svgdata"
-  total_queries:
+  inbox_depth:
     dataRef: "inbox_depth"
     label:
       separator: "cr"
